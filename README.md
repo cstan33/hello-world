@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+I'm refreshing github to recap.
+I want to learn how to create blockchain project
